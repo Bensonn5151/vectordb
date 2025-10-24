@@ -1,0 +1,1 @@
+log error1- .env variables in jupyter
