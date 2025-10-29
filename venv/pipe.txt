@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "title": "PIPEDA fair information principles - Office of the Privacy Commissioner of Canada",
+    "url": "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/p_principle/",
+    "scraped_at": "2025-10-15T14:25:46.656425",
+    "content_hash": "92be8c9e0de895833e14722204250697",
+    "section": "principles_overview"
+  },
+  "content": {
+    "markdown": "# PIPEDA fair information principles\n\nPIPEDA’s 10 fair information principles form the ground rules for the\ncollection, use and disclosure of personal information, as well as for\nproviding access to personal information. They give individuals control over\nhow their personal information is handled in the private sector.\n\nThis section sets out organizations’ responsibilities for each of the 10 fair\ninformation principles. It outlines how to fulfill these responsibilities and\noffers some tips.\n\nIn addition to these principles, PIPEDA states that any collection, use or\ndisclosure of personal information must only be for purposes that a reasonable\nperson would consider appropriate in the circumstances.\n\nThe OPC has determined that the following purposes would generally be\nconsidered inappropriate by a reasonable person (i.e., no-go zones):\n\n  * collecting, using or disclosing personal information in ways that are otherwise unlawful;\n  * profiling or categorizing individuals in a way that leads to unfair, unethical or discriminatory treatment contrary to human rights law;\n  * collecting, using or disclosing personal information for purposes that are known or likely to cause significant harm to the individual;\n  * publishing personal information with the intent of charging people for its removal;\n  * requiring passwords to social media accounts for the purpose of employee screening; and\n  * conducting surveillance on an individual using their own device’s audio or video functions.\n\n## [Principle 1 – Accountability](/en/privacy-topics/privacy-laws-in-\ncanada/the-personal-information-protection-and-electronic-documents-act-\npipeda/p_principle/principles/p_accountability/ \"p_accountability\")\n\nAn organization is responsible for personal information under its control. It\nmust appoint someone to be accountable for its compliance with these fair\ninformation principles.\n\n## [Principle 2 – Identifying purposes](/en/privacy-topics/privacy-laws-in-\ncanada/the-personal-information-protection-and-electronic-documents-act-\npipeda/p_principle/principles/p_purposes/ \"p_purposes\")\n\nThe purposes for which the personal information is being collected must be\nidentified by the organization before or at the time of collection.\n\n## [Principle 3 – Consent](/en/privacy-topics/privacy-laws-in-canada/the-\npersonal-information-protection-and-electronic-documents-act-\npipeda/p_principle/principles/p_consent/ \"p_consent\")\n\nThe knowledge and consent of the individual are required for the collection,\nuse, or disclosure of personal information, [except where\ninappropriate](/en/privacy-topics/privacy-laws-in-canada/the-personal-\ninformation-protection-and-electronic-documents-act-\npipeda/r_o_p/gd_d1-d2_201703/ \"gd_d1-d2_201703\").\n\n## [Principle 4 – Limiting collection](/en/privacy-topics/privacy-laws-in-\ncanada/the-personal-information-protection-and-electronic-documents-act-\npipeda/p_principle/principles/p_collection/ \"p_collection\")\n\nThe collection of personal information must be limited to that which is needed\nfor the purposes identified by the organization. Information must be collected\nby fair and lawful means.\n\n## [Principle 5 – Limiting use, disclosure, and retention](/en/privacy-\ntopics/privacy-laws-in-canada/the-personal-information-protection-and-\nelectronic-documents-act-pipeda/p_principle/principles/p_use/ \"p_use\")\n\nUnless the individual consents otherwise or it is required by law, personal\ninformation can only be used or disclosed for the purposes for which it was\ncollected. Personal information must only be kept as long as required to serve\nthose purposes.\n\n## [Principle 6 – Accuracy](/en/privacy-topics/privacy-laws-in-canada/the-\npersonal-information-protection-and-electronic-documents-act-\npipeda/p_principle/principles/p_accuracy/ \"p_accuracy\")\n\nPersonal information must be as accurate, complete, and up-to-date as possible\nin order to properly satisfy the purposes for which it is to be used.\n\n## [Principle 7 – Safeguards](/en/privacy-topics/privacy-laws-in-canada/the-\npersonal-information-protection-and-electronic-documents-act-\npipeda/p_principle/principles/p_safeguards/ \"p_safeguards\")\n\nPersonal information must be protected by appropriate security relative to the\nsensitivity of the information.\n\n## [Principle 8 – Openness](/en/privacy-topics/privacy-laws-in-canada/the-\npersonal-information-protection-and-electronic-documents-act-\npipeda/p_principle/principles/p_openness/ \"p_openness\")\n\nAn organization must make detailed information about its policies and\npractices relating to the management of personal information publicly and\nreadily available.\n\n## [Principle 9 – Individual access](/en/privacy-topics/privacy-laws-in-\ncanada/the-personal-information-protection-and-electronic-documents-act-\npipeda/p_principle/principles/p_access/ \"p_access\")\n\nUpon request, an individual must be informed of the existence, use, and\ndisclosure of their personal information and be given access to that\ninformation. An individual shall be able to challenge the accuracy and\ncompleteness of the information and have it amended as appropriate.\n\n## [Principle 10 – Challenging compliance](/en/privacy-topics/privacy-laws-in-\ncanada/the-personal-information-protection-and-electronic-documents-act-\npipeda/p_principle/principles/p_compliance/ \"p_compliance\")\n\nAn individual shall be able to challenge an organization’s compliance with the\nabove principles. Their challenge should be addressed to the person\naccountable for the organization’s compliance with PIPEDA, usually their Chief\nPrivacy Officer.\n\n## Related content\n\n  * [PIPEDA legislation and related regulations](/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/r_o_p/)\n  * [PIPEDA Interpretation Bulletins](/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/pipeda-compliance-help/pipeda-interpretation-bulletins/)\n\nDate modified:\n\n    2024-05-01\n  *[PIPEDA]: Personal Information Protection and Electronic Documents Act\n  *[i.e.]: that is\n\n",
+    "headings": [
+      {
+        "level": 1,
+        "text": "PIPEDA fair information principles"
+      },
+      {
+        "level": 2,
+        "text": "Principle 1 – Accountability"
+      },
+      {
+        "level": 2,
+        "text": "Principle 2 – Identifying purposes"
+      },
+      {
+        "level": 2,
+        "text": "Principle 3 – Consent"
+      },
+      {
+        "level": 2,
+        "text": "Principle 4 – Limiting collection"
+      },
+      {
+        "level": 2,
+        "text": "Principle 5 – Limiting use, disclosure, and retention"
+      },
+      {
+        "level": 2,
+        "text": "Principle 6 – Accuracy"
+      },
+      {
+        "level": 2,
+        "text": "Principle 7 – Safeguards"
+      },
+      {
+        "level": 2,
+        "text": "Principle 8 – Openness"
+      },
+      {
+        "level": 2,
+        "text": "Principle 9 – Individual access"
+      },
+      {
+        "level": 2,
+        "text": "Principle 10 – Challenging compliance"
+      },
+      {
+        "level": 2,
+        "text": "Related content"
+      }
+    ],
+    "links": [
+      {
+        "text": "Principle 1 – Accountability",
+        "url": "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/p_principle/principles/p_accountability/"
+      },
+      {
+        "text": "Principle 2 – Identifying purposes",
+        "url": "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/p_principle/principles/p_purposes/"
+      },
+      {
+        "text": "Principle 3 – Consent",
+        "url": "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/p_principle/principles/p_consent/"
+      },
+      {
+        "text": "except where inappropriate",
+        "url": "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/r_o_p/gd_d1-d2_201703/"
+      },
+      {
+        "text": "Principle 4 – Limiting collection",
+        "url": "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/p_principle/principles/p_collection/"
+      },
+      {
+        "text": "Principle 5 – Limiting use, disclosure, and retention",
+        "url": "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/p_principle/principles/p_use/"
+      },
+      {
+        "text": "Principle 6 – Accuracy",
+        "url": "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/p_principle/principles/p_accuracy/"
+      },
+      {
+        "text": "Principle 7 – Safeguards",
+        "url": "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/p_principle/principles/p_safeguards/"
+      },
+      {
+        "text": "Principle 8 – Openness",
+        "url": "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/p_principle/principles/p_openness/"
+      },
+      {
+        "text": "Principle 9 – Individual access",
+        "url": "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/p_principle/principles/p_access/"
+      },
+      {
+        "text": "Principle 10 – Challenging compliance",
+        "url": "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/p_principle/principles/p_compliance/"
+      },
+      {
+        "text": "PIPEDA legislation and related regulations",
+        "url": "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/r_o_p/"
+      },
+      {
+        "text": "PIPEDA Interpretation Bulletins",
+        "url": "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/pipeda-compliance-help/pipeda-interpretation-bulletins/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,471 @@
+[
+{
+}, {
+"Item": "Twilight Velvet Blazer", "Type": "Jacket",
+"Style": "Formal",
+"Season": "Fall/Winter", "Material": "Velvet",
+"Color": "Deep Navy",
+"Sizes Available": ["S", "M", "L", "XL"],
+"Features": "Tailored fit, satin lapels, single-button closure, with decorative cuff buttons and inner pocket."
+}, {
+"Item": "Coastal Linen Shorts", "Type": "Pants",
+"Style": "Casual",
+"Season": "Summer", "Material": "Linen",
+"Color": "Beige",
+"Sizes Available": ["S", "M", "L", "XL"],
+"Features": "Relaxed fit, elastic waistband, drawstring, with rolled cuffs and deep pockets."
+"Item": "Starlight Sequin Dress", "Type": "Dress",
+"Style": "Party",
+"Season": "All-Season", "Material": "Sequined fabric", "Color": "Silver",
+
+"Sizes Available": ["XS", "S", "M"],
+"Features": "Sleeveless, bodycon fit, mini length, with full lining and hidden back zipper." },
+{
+"Item": "Explorer Cargo Jacket",
+"Type": "Jacket",
+"Style": "Casual",
+"Season": "Spring/Fall",
+"Material": "Cotton blend",
+"Color": "Olive Green",
+"Sizes Available": ["M", "L", "XL"],
+"Features": "Multi-pocket design, durable fabric, with adjustable cuffs and hidden hood."
+}, {
+"Item": "Ballet Flats", "Type": "Accessory",
+"Style": "Casual",
+"Season": "Spring/Summer", "Material": "Leather", "Color": "Soft Pink",
+"Sizes Available": ["5", "6", "7", "8", "9"],
+"Features": "Cushioned insole, round toe, with decorative bow and flexible sole." },
+{
+"Item": "Sapphire Evening Gown", "Type": "Dress",
+"Style": "Formal",
+"Season": "All-Season", "Material": "Silk chiffon",
+
+"Color": "Royal Blue",
+"Sizes Available": ["S", "M", "L"],
+"Features": "Floor-length, halter neck, with draped silhouette and side slit."
+}, {
+}, {
+}, {
+"Item": "Mountaineer Thermal Vest", "Type": "Jacket",
+"Style": "Sporty",
+"Season": "Winter",
+"Material": "Insulated synthetic",
+"Color": "Mountain Gray",
+"Sizes Available": ["M", "L", "XL"],
+"Features": "Lightweight, water-resistant, with thermal pockets and zip-front closure."
+"Item": "Heritage Wool Sweater", "Type": "Shirt",
+"Style": "Casual",
+"Season": "Winter",
+"Material": "Wool",
+"Color": "Burgundy",
+"Sizes Available": ["S", "M", "L"],
+"Features": "Cable knit, crew neck, with ribbed trim and elbow patches."
+"Item": "Nomad Leather Backpack", "Type": "Accessory",
+"Style": "Casual",
+"Season": "All-Season",
+
+"Material": "Leather",
+"Color": "Earthy Tan",
+"Sizes Available": ["One Size"],
+"Features": "Spacious interior, adjustable straps, with multiple compartments and antique brass closures."
+}, {
+"Item": "Jetsetter Watch", "Type": "Accessory", "Style": "Formal",
+"Season": "All-Season", "Material": "Stainless steel", "Color": "Silver",
+"Sizes Available": ["One Size"],
+"Features": "Water-resistant, chronograph display, with date function and metal link bracelet." },
+{
+"Item": "Misty Morning Trench Coat",
+"Type": "Jacket",
+"Style": "Formal",
+"Season": "Spring/Fall",
+"Material": "Waterproof Cotton",
+"Color": "Soft Grey",
+"Sizes Available": ["S", "M", "L", "XL"],
+"Features": "Belted waist, double-breasted, with storm flap and wrist buckles."
+}, {
+"Item": "Weekender Joggers", "Type": "Pants",
+
+"Style": "Casual",
+"Season": "All-Season",
+"Material": "Cotton blend",
+"Color": "Heather Grey",
+"Sizes Available": ["S", "M", "L", "XL"],
+"Features": "Tapered fit, ribbed cuffs, drawstring waist, with zippered pockets and soft inner lining."
+}, {
+}, {
+}, {
+"Item": "Cosmic Full-Zip Hoodie", "Type": "Shirt",
+"Style": "Casual",
+"Season": "Fall/Winter", "Material": "Fleece",
+"Color": "Midnight Blue",
+"Sizes Available": ["S", "M", "L"],
+"Features": "Hooded, zip front, with galaxy print inside the hood and thermal insulation."
+"Item": "Regal Silk Scarf",
+"Type": "Accessory",
+"Style": "Formal",
+"Season": "All-Season",
+"Material": "Silk",
+"Color": "Emerald Green",
+"Sizes Available": ["One Size"],
+"Features": "Square cut, luxurious sheen, with hand-rolled edges and an intricate paisley design."
+"Item": "Pioneer Denim Overalls",
+
+"Type": "Pants",
+"Style": "Casual",
+"Season": "Spring/Summer",
+"Material": "Denim",
+"Color": "Classic Blue",
+"Sizes Available": ["XS", "S", "M", "L"],
+"Features": "Relaxed fit, adjustable straps, with front bib pocket and side button closures."
+}, {
+}, {
+}, {
+"Item": "Fiesta Maxi Skirt",
+"Type": "Skirt",
+"Style": "Casual",
+"Season": "Summer",
+"Material": "Rayon",
+"Color": "Multicolor Print",
+"Sizes Available": ["S", "M", "L"],
+"Features": "Flowing silhouette, elastic waistband, with a vibrant tropical pattern and high side slit."
+"Item": "Gladiator Sandals",
+"Type": "Accessory",
+"Style": "Casual",
+"Season": "Summer",
+"Material": "Leather",
+"Color": "Rustic Brown",
+"Sizes Available": ["6", "7", "8", "9", "10"],
+"Features": "Strappy design, ankle tie, with cushioned footbed and rubber outsole."
+
+"Item": "Varsity Baseball Cap", "Type": "Accessory",
+"Style": "Sporty",
+"Season": "All-Season", "Material": "Cotton",
+"Color": "Navy Blue",
+"Sizes Available": ["One Size"],
+"Features": "Adjustable back, embroidered logo, with a curved brim and breathable fabric."
+}, {
+}, {
+},
+"Item": "Couture Velvet Jacket", "Type": "Jacket",
+"Style": "Formal",
+"Season": "Fall/Winter", "Material": "Velvet",
+"Color": "Burgundy",
+"Sizes Available": ["S", "M", "L"],
+"Features": "Tailored fit, silk lining, with gold button closures and peak lapels."
+"Item": "Urban Cargo Shorts", "Type": "Pants",
+"Style": "Casual",
+"Season": "Summer", "Material": "Canvas",
+"Color": "Khaki",
+"Sizes Available": ["M", "L", "XL"],
+"Features": "Loose fit, multiple pockets, with belt loops and durable reinforced seams."
+
+{
+"Item": "Madison Summer Dress",
+"Type": "Dress",
+"Style": "Casual",
+"Season": "Summer",
+"Material": "Cotton",
+"Color": "Light Blue",
+"Sizes Available": ["S", "M", "L"],
+"Features": "Floral pattern, sleeveless, knee-length, with lace trimmings and back zipper."
+}, {
+}, {
+"Item": "Executive Winter Coat", "Type": "Jacket",
+"Style": "Formal",
+"Season": "Winter",
+"Material": "Wool",
+"Color": "Charcoal Grey",
+"Sizes Available": ["M", "L", "XL"],
+"Features": "Double-breasted, slim fit, with silk lining and deep front pockets."
+"Item": "Alpine Trek Pants", "Type": "Pants",
+"Style": "Sporty",
+"Season": "All-Season", "Material": "Synthetic blend", "Color": "Black",
+"Sizes Available": ["S", "M", "L", "XL"],
+"Features": "Waterproof, elastic waistband, zippered pockets, and reinforced knees."
+
+}, {
+}, {
+}, {
+"Item": "Venice Beach Tank Top", "Type": "Shirt",
+"Style": "Casual",
+"Season": "Summer", "Material": "Mesh",
+"Color": "Neon Green",
+"Sizes Available": ["S", "M", "L"],
+"Features": "Breathable fabric, racerback design, with reflective logos for safety."
+"Item": "Soho Evening Blouse", "Type": "Shirt",
+"Style": "Formal",
+"Season": "Spring/Fall", "Material": "Silk",
+"Color": "Midnight Black",
+"Sizes Available": ["XS", "S", "M"],
+"Features": "Bell sleeves, V-neck, with pearl button closures and ruched detailing."
+"Item": "Highland Plaid Scarf", "Type": "Accessory",
+"Style": "Casual",
+"Season": "Winter", "Material": "Cashmere", "Color": "Red and Black Plaid", "Sizes Available": ["One Size"],
+
+"Features": "Soft texture, fringe ends, with an oversized design for versatile styling." },
+{
+"Item": "Chelsea Leather Boots",
+"Type": "Accessory",
+"Style": "Formal",
+"Season": "Fall/Winter",
+"Material": "Leather",
+"Color": "Dark Brown",
+"Sizes Available": ["6", "7", "8", "9", "10"],
+"Features": "Ankle height, block heel, with side zippers and decorative buckle."
+}, {
+"Item": "Riviera Swim Shorts", "Type": "Pants",
+"Style": "Sporty",
+"Season": "Summer", "Material": "Polyester", "Color": "Turquoise",
+"Sizes Available": ["M", "L", "XL"],
+"Features": "Quick-dry fabric, mesh lining, with cargo pocket and adjustable drawstring." },
+{
+"Item": "Metro Utility Jacket", "Type": "Jacket",
+"Style": "Casual",
+"Season": "Spring/Fall", "Material": "Denim",
+"Color": "Vintage Blue",
+
+"Sizes Available": ["S", "M", "L", "XL"],
+"Features": "Rugged look, multiple patch pockets, with corduroy collar and snap buttons." },
+{
+"Item": "Parisian Night Skirt",
+"Type": "Skirt",
+"Style": "Formal",
+"Season": "Spring/Fall",
+"Material": "Velvet",
+"Color": "Deep Purple",
+"Sizes Available": ["XS", "S", "M"],
+"Features": "A-line cut, midi length, with side zipper and decorative flounces."
+}, {
+}, {
+"Item": "Desert Chino Shorts", "Type": "Pants",
+"Style": "Casual",
+"Season": "Summer", "Material": "Cotton",
+"Color": "Sand",
+"Sizes Available": ["M", "L", "XL"],
+"Features": "Flat front, knee-length, with button closure and belt loops."
+"Item": "Orchid Kimono Wrap", "Type": "Dress",
+"Style": "Casual",
+"Season": "Spring/Summer", "Material": "Silk",
+
+"Color": "Violet",
+"Sizes Available": ["S", "M", "L"],
+"Features": "Loose fit, wide sleeves, with tie belt and floral print."
+}, {
+}, {
+}, {
+"Item": "Polar Fleece Pullover", "Type": "Shirt",
+"Style": "Casual",
+"Season": "Winter", "Material": "Fleece",
+"Color": "Icy Blue",
+"Sizes Available": ["S", "M", "L", "XL"],
+"Features": "Half-zip, high collar, with kangaroo pocket and elastic cuffs."
+"Item": "Modernist Leather Jacket", "Type": "Jacket",
+"Style": "Formal",
+"Season": "Spring/Fall",
+"Material": "Leather",
+"Color": "Black",
+"Sizes Available": ["M", "L", "XL"],
+"Features": "Slim fit, zip front, with quilted shoulders and zippered cuffs."
+"Item": "Garden Floral Blouse", "Type": "Shirt",
+"Style": "Casual",
+"Season": "Spring",
+
+"Material": "Chiffon",
+"Color": "Pastel Pink",
+"Sizes Available": ["XS", "S", "M"],
+"Features": "Sheer fabric, long sleeves, with ruffle trim and button front."
+}, {
+}, {
+}, {
+"Item": "Athena Toga Dress", "Type": "Dress",
+"Style": "Formal",
+"Season": "Summer", "Material": "Silk",
+"Color": "White",
+"Sizes Available": ["S", "M", "L"],
+"Features": "One-shoulder design, floor-length, with gold belt and draped silhouette."
+"Item": "Expedition Cargo Pants", "Type": "Pants",
+"Style": "Casual",
+"Season": "All-Season", "Material": "Canvas",
+"Color": "Olive Green",
+"Sizes Available": ["S", "M", "L", "XL"],
+"Features": "Relaxed fit, multiple pockets, with drawstring waist and snap closures."
+"Item": "Neon Runners Tank", "Type": "Shirt",
+"Style": "Sporty",
+
+"Season": "Summer",
+"Material": "Polyester",
+"Color": "Neon Yellow",
+"Sizes Available": ["S", "M", "L"],
+"Features": "Moisture-wicking, sleeveless, with mesh back and reflective strips."
+}, {
+}, {
+"Item": "Azure Beach Sarong", "Type": "Accessory",
+"Style": "Casual",
+"Season": "Summer", "Material": "Cotton",
+"Color": "Azure Blue",
+"Sizes Available": ["One Size"],
+"Features": "Lightweight, wrap design, with tie closure and tropical print."
+"Item": "Midnight Tuxedo", "Type": "Jacket",
+"Style": "Formal", "Season": "All-Season", "Material": "Wool", "Color": "Black",
+"Sizes Available": ["S", "M", "L", "XL"],
+"Features": "Single button, satin lapels, with tailored fit and welt pockets." },
+{
+"Item": "Harbor Master Watch", "Type": "Accessory",
+
+"Style": "Formal",
+"Season": "All-Season",
+"Material": "Stainless steel",
+"Color": "Silver",
+"Sizes Available": ["One Size"],
+"Features": "Water-resistant, nautical inspired, with compass bezel and luminous hands."
+}, {
+}, {
+}, {
+"Item": "Crimson Velvet Heels", "Type": "Accessory",
+"Style": "Formal",
+"Season": "All-Season", "Material": "Velvet",
+"Color": "Deep Red",
+"Sizes Available": ["6", "7", "8", "9"],
+"Features": "Stiletto heel, pointed toe, with cushioned insole and ankle strap."
+"Item": "Frost Beanie",
+"Type": "Accessory",
+"Style": "Casual",
+"Season": "Winter",
+"Material": "Wool",
+"Color": "Snow White",
+"Sizes Available": ["One Size"],
+"Features": "Knit pattern, warm fabric, with pom-pom top and fold-over cuff."
+"Item": "Trailblazer Hiking Boots",
+
+"Type": "Accessory",
+"Style": "Sporty",
+"Season": "All-Season",
+"Material": "Leather",
+"Color": "Brown",
+"Sizes Available": ["6", "7", "8", "9", "10"],
+"Features": "Waterproof, ankle support, with rugged sole and lace-up closure."
+}, {
+}, {
+}, {
+"Item": "Silhouette Slim Jeans", "Type": "Pants",
+"Style": "Casual",
+"Season": "All-Season", "Material": "Denim",
+"Color": "Dark Wash",
+"Sizes Available": ["S", "M", "L", "XL"],
+"Features": "Slim fit, stretch fabric, with five-pocket styling and button fly."
+"Item": "Opal Evening Clutch", "Type": "Accessory",
+"Style": "Formal",
+"Season": "All-Season", "Material": "Silk",
+"Color": "Iridescent",
+"Sizes Available": ["One Size"],
+"Features": "Envelope design, magnetic closure, with satin lining and optional shoulder strap."
+
+"Item": "Lumberjack Flannel Shirt", "Type": "Shirt",
+"Style": "Casual",
+"Season": "Fall/Winter", "Material": "Flannel",
+"Color": "Red/Black Check",
+"Sizes Available": ["S", "M", "L", "XL"],
+"Features": "Button down, long sleeves, with chest pockets and soft texture."
+}, {
+}, {
+"Item": "Eclipse Leather Gloves", "Type": "Accessory",
+"Style": "Formal",
+"Season": "Winter",
+"Material": "Leather",
+"Color": "Black",
+"Sizes Available": ["S", "M", "L"],
+"Features": "Touchscreen compatible, lined with cashmere, with wrist snap closure."
+"Item": "Seaside Straw Hat", "Type": "Accessory", "Style": "Casual",
+"Season": "Summer", "Material": "Straw", "Color": "Natural",
+"Sizes Available": ["One Size"],
+"Features": "Wide brim, breathable, with ribbon detail and sun protection." },
+
+{
+"Item": "Prime Performance Shorts",
+"Type": "Pants",
+"Style": "Sporty",
+"Season": "Summer",
+"Material": "Microfiber",
+"Color": "Charcoal",
+"Sizes Available": ["S", "M", "L", "XL"],
+"Features": "Lightweight, moisture-wicking, with elastic waist and hidden pockets."
+}, {
+}, {
+"Item": "Gothic Lace Corset Top", "Type": "Shirt",
+"Style": "Formal",
+"Season": "All-Season", "Material": "Lace",
+"Color": "Black",
+"Sizes Available": ["XS", "S", "M"],
+"Features": "Full lace-up back, structured bodice, with intricate floral lace and sheer sleeves."
+"Item": "Sunrise Yoga Leggings", "Type": "Pants",
+"Style": "Sporty",
+"Season": "All-Season", "Material": "Spandex",
+"Color": "Pink Gradient",
+"Sizes Available": ["S", "M", "L"],
+"Features": "High waist, stretch fabric, with moisture-wicking properties and flat seams."
+
+}, {
+}, {
+"Item": "Boardwalk Espadrilles", "Type": "Accessory",
+"Style": "Casual",
+"Season": "Summer", "Material": "Canvas",
+"Color": "Navy Blue",
+"Sizes Available": ["7", "8", "9", "10"],
+"Features": "Jute rope sole, slip-on, with a canvas upper and stitch detailing."
+"Item": "Vintage Bomber Jacket", "Type": "Jacket",
+"Style": "Casual",
+"Season": "Spring/Fall", "Material": "Leather",
+"Color": "Brown",
+"Sizes Available": ["M", "L", "XL"],
+"Features": "Ribbed cuffs and hem, front zip closure, with classic flight jacket design and utility pocket on sleeve."
+}, {
+"Item": "Mystic Mesh Overlay Dress", "Type": "Dress",
+"Style": "Party",
+"Season": "All-Season",
+"Material": "Mesh", "Color": "Midnight Blue",
+
+"Sizes Available": ["S", "M", "L"],
+"Features": "Sleeveless, full-length mesh overlay, with bodycon underdress and scalloped hem." },
+{
+"Item": "Arctic Explorer Parka",
+"Type": "Jacket",
+"Style": "Sporty",
+"Season": "Winter",
+"Material": "Insulated synthetic",
+"Color": "Ice White",
+"Sizes Available": ["L", "XL"],
+"Features": "Water-resistant, hooded, with thermal lining and multiple insulated pockets."
+}, {
+}, {
+"Item": "Pro Golf Polo",
+"Type": "Shirt",
+"Style": "Sporty",
+"Season": "Summer",
+"Material": "Polyester",
+"Color": "Emerald Green",
+"Sizes Available": ["S", "M", "L", "XL"],
+"Features": "Breathable fabric, regular fit, with three-button placket and UV protection."
+"Item": "Enchanted Evening Purse", "Type": "Accessory",
+"Style": "Formal",
+"Season": "All-Season",
+"Material": "Satin",
+
+}
+]
+"Color": "Royal Purple",
+"Sizes Available": ["One Size"],
+"Features": "Clutch style, magnetic closure, with crystal embellishments and a satin wrist strap."
+}, {
+}, {
+"Item": "Safari Linen Vest", "Type": "Jacket",
+"Style": "Casual",
+"Season": "Spring/Summer", "Material": "Linen",
+"Color": "Khaki",
+"Sizes Available": ["M", "L"],
+"Features": "Lightweight, sleeveless, with multiple pockets and adjustable back strap."
+"Item": "Celestial Silk Nightgown", "Type": "Dress",
+"Style": "Casual",
+"Season": "All-Season", "Material": "Silk",
+"Color": "Sky Blue",
+"Sizes Available": ["S", "M", "L"],
+"Features": "Floor-length, adjustable straps, with lace trim and a soft, flowing silhouette."
